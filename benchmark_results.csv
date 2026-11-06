@@ -1,0 +1,5 @@
+Yöntem,Üretim-istemci (ms),Üretim-sunucu (ms),Üretim-toplam (ms),Değişim (ms),Giden (B),Gelen (B),Toplam paket (B)
+RSA-2048,0.00,88.64,88.65,2.16,476,471,947
+Diffie-Hellman-2048,5.39,5.33,10.73,14.49,474,432,906
+ECC (ECDH P-256),0.04,0.05,0.10,0.57,285,244,529
+Kyber (ML-KEM-768),0.00,3.98,3.98,12.58,1312,1363,2675
